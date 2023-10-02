@@ -1,0 +1,9 @@
+{
+  "app": {
+    "server_name": "localhost",
+    "port_run": ":8080"
+  },
+  "token_life_seconds": 999999999999999,
+  "secret": "something",
+  "db": "host=loca  lhost user=postgres password=admin dbname=projectdb port=5432 sslmode=disable"
+ }

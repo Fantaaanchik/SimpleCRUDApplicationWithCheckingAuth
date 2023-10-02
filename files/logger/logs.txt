@@ -1,0 +1,105 @@
+2023/05/09 22:24:53 Service launched!
+2023/05/09 22:24:53 Не удалось подключиться к базеfailed to connect to `host=localhost user=postgres database=DBForProject`: server error (�����: ���� ������ "DBForProject" �� ���������� (SQLSTATE 3D000))
+2023/05/09 22:27:46 Service launched!
+2023/05/09 22:27:46 Не удалось подключиться к базеfailed to connect to `host=localhost user=postgres database=dbforproject`: server error (�����: ���� ������ "dbforproject" �� ���������� (SQLSTATE 3D000))
+2023/05/09 22:28:09 Service launched!
+2023/05/09 22:28:09 Удалось подключиться к базе!
+2023/05/10 13:34:32 Удалось подключиться к базе!
+2023/05/10 13:41:03 Удалось подключиться к базе!
+2023/05/10 13:41:03 Не удалось мигрировать модели в базу!
+2023/05/10 13:42:06 Удалось подключиться к базе!
+2023/05/10 13:42:07 Не удалось мигрировать модели в базу!
+2023/05/10 14:31:28 Удалось подключиться к базе!
+2023/05/10 14:31:29 Не удалось мигрировать модели в базу!
+2023/05/10 14:34:13 Удалось подключиться к базе!
+2023/05/10 14:36:37 Удалось подключиться к базе!
+2023/05/10 15:20:09 Удалось подключиться к базе!
+2023/05/10 15:24:09 Вы ввели не правильный формат данных. Нужен %!d(string=EOF)
+2023/05/10 15:24:28 Удалось подключиться к базе!
+2023/05/10 15:29:15 Удалось подключиться к базе!
+2023/05/10 15:44:00 Не удалось подключиться к базеsql: unknown driver "postgres" (forgotten import?)
+2023/05/10 15:48:07 Не удалось подключиться к базеsql: unknown driver "postgres" (forgotten import?)
+2023/05/10 15:53:41 Не удалось подключиться к базеsql: unknown driver "postgres" (forgotten import?)
+2023/05/10 15:54:49 Не удалось подключиться к базеsql: unknown driver "postgres" (forgotten import?)
+2023/05/10 15:56:36 Не удалось подключиться к базеsql: unknown driver "postgres" (forgotten import?)
+2023/05/10 16:14:41 Не удалось подключиться к базеsql: unknown driver "postgres" (forgotten import?)
+2023/05/10 16:17:59 Не удалось подключиться к базеsql: unknown driver "postgres" (forgotten import?)
+2023/05/10 16:18:58 Не удалось подключиться к базеsql: unknown driver "postgres" (forgotten import?)
+2023/05/10 16:19:26 Не удалось подключиться к базеsql: unknown driver "postgres" (forgotten import?)
+2023/05/10 16:24:45 Не удалось подключиться к базеsql: unknown driver "postgres" (forgotten import?)
+2023/05/10 16:34:59 Не удалось подключиться к базеsql: unknown driver "postgres" (forgotten import?)
+2023/05/15 21:08:26 Не удалось подключиться к базеsql: unknown driver "postgres" (forgotten import?)
+2023/05/19 09:44:48 Failed to select id, title from DB
+2023/05/19 09:46:58 Failed to select id, title from DB
+2023/05/19 09:50:58 Failed to select id, title from DB
+2023/05/19 09:56:09 Failed to select id, title from DB
+2023/05/19 10:00:41 Failed to select id, title from DB
+2023/05/19 10:08:33 Failed to select id, title from DB
+2023/05/19 10:13:48 Failed to select id, title from DB
+2023/05/19 10:17:01 Failed to select id, title from DB
+2023/05/19 10:17:38 Failed to select id, title from DB, ERROR6:  pq: SSL is not enabled on the server
+2023/05/19 10:18:25 Failed to select id, title from DB, ERROR6:  pq: отношение "quizzes" не существует
+2023/05/19 10:20:20 Failed to select id, title from DB, ERROR6:  pq: отношение "quizzes" не существует
+2023/05/19 10:27:25 Failed to select id, title from DB, ERROR6:  pq: отношение "quizzes" не существует
+2023/05/19 10:28:48 Failed to select id, title from DB, ERROR6:  pq: отношение "quiz" не существует
+2023/05/19 10:30:02 Failed to select id, title from DB, ERROR6:  pq: отношение "quiz" не существует
+2023/05/19 10:37:03 Failed to select id, title from DB, ERROR:  pq: отношение "quizzes" не существует
+2023/05/19 10:42:00 Failed select for bring an id, title, description, skills from model Profession
+2023/05/19 10:43:02 Failed select for bring an id, title, description, skills from model Profession
+2023/05/19 11:07:08 Failed select to bring an id, text from model Question
+2023/05/21 16:09:15 Failed select for bring an id, title, description, skills from model Profession
+2023/05/21 16:10:32 Failed scan an id, title, description, skills from model Profession
+2023/05/21 16:19:34 Failed scan an id, title, description, skills from model Profession
+2023/05/21 16:21:19 Failed scan an id, title, description, skills from model Profession
+2023/05/21 16:23:24 Failed scan an id, title, description, skills from model Profession
+2023/05/21 16:24:00 Failed scan an id, title, description, skills from model Profession  sql: Scan error on column index 3, name "skills": unsupported Scan, storing driver.Value type []uint8 into type *[]string
+2023/05/21 17:01:12 Failed scan an id, title, description, skills from model Profession  sql: Scan error on column index 4, name "sum_score": converting driver.Value type []uint8 ("[65,81)") to a uint8: invalid syntax
+2023/05/22 11:36:58 Empty text area from Scan at 100 row code
+2023/05/22 11:49:41 Selected answer doesn't exist
+2023/05/22 19:39:39 Empty text area from Scan at 182 row code
+2023/05/27 11:55:22 Connected to DB
+2023/05/27 11:55:59 Connected to DB
+2023/06/09 15:51:14 Failed to connect to DB
+2023/06/09 15:53:19 Failed to connect to DB
+2023/06/09 15:54:40 Failed to connect to DB
+2023/06/09 17:15:53 Failed to connect to DB
+2023/06/09 17:43:45 Selected answer doesn't exist
+2023/06/09 17:46:19 Selected answer doesn't exist
+2023/06/09 17:53:35 Selected answer doesn't exist
+2023/06/09 17:57:20 Selected answer doesn't exist
+2023/06/09 17:57:27 Selected answer doesn't exist
+2023/06/09 17:57:32 Selected answer doesn't exist
+2023/06/09 17:57:42 Empty text area or unCorrect input from Scan at 59 row code
+2023/06/09 17:58:01 Selected answer doesn't exist
+2023/06/09 17:59:42 Selected answer doesn't exist
+2023/06/09 18:00:07 Selected answer doesn't exist
+2023/06/09 18:00:17 Selected answer doesn't exist
+2023/06/09 18:00:23 Selected answer doesn't exist
+2023/06/09 18:00:28 Selected answer doesn't exist
+2023/06/09 18:05:32 Selected answer doesn't exist
+2023/06/09 18:10:19 Selected answer doesn't exist
+2023/06/09 18:19:58 Failed select to bring an id, title, description, min_score from model Profession
+2023/06/10 17:01:37 bind err: EOF
+2023/06/10 17:44:06 ОШИБКА: столбец "quiz" не существует (SQLSTATE 42703)
+2023/06/10 17:46:24 ОШИБКА: столбец "quiz" не существует (SQLSTATE 42703)
+2023/06/10 17:49:46 ОШИБКА: столбец "quiz_id" не существует (SQLSTATE 42703)
+2023/06/12 18:27:24 EOF
+2023/06/12 18:29:07 json: cannot unmarshal string into Go struct field AnswerForEachQuestion.question_id of type int
+2023/06/12 18:33:45 ОШИБКА: отношение "answers_for_each_questions" не существует (SQLSTATE 42P01)
+2023/06/12 18:36:57 ОШИБКА: отношение "user_answer" не существует (SQLSTATE 42P01)
+2023/06/12 19:08:16 input -  {{0 0       false <nil> <nil>} 4 1 0 <nil> <nil>}
+2023/06/12 19:09:25 input -  {{0 0       false <nil> <nil>} 1 4 0 <nil> <nil>}
+2023/06/12 19:11:26 input -  {1 4 0 <nil> <nil>}
+2023/06/13 15:32:55 input -  {1 4 4 <nil> 2023-06-13 15:32:55.2209209 +0500 PKT}
+2023/06/13 15:48:36 WHERE conditions required
+2023/06/13 15:50:47 input -  {1 4 4 1 <nil> 2023-06-13 15:50:47.8693318 +0500 PKT}
+2023/06/13 15:51:57 input -  {1 4 4 1 2023-06-13 15:51:57.3099083 +0500 PKT 2023-06-13 15:51:57.3665484 +0500 PKT}
+2023/06/13 15:53:12 input -  {2 4 3 2 2023-06-13 15:53:12.5985619 +0500 PKT 2023-06-13 15:53:12.6479742 +0500 PKT}
+2023/06/13 21:48:43 ОШИБКА: столбец "score" не существует (SQLSTATE 42703)
+2023/06/13 21:55:13 ОШИБКА: столбец "score" не существует (SQLSTATE 42703)
+2023/06/13 21:57:44 sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer
+2023/06/13 22:16:04 sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer
+2023/06/13 22:19:07 Failed to migrate model %!s(*models.Profession=<nil>): ОШИБКА: ошибка синтаксиса (примерное положение: "id") (SQLSTATE 42601)
+2023/06/13 22:19:15 sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer; sql: Scan error on column index 0, name "title": destination not a pointer
+2023/06/13 23:03:42 open files/врач.pdf: The system cannot find the file specified.
+2023/06/13 23:03:51 open files/врач.txt: The system cannot find the file specified.
